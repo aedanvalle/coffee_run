@@ -13,4 +13,5 @@ Project Description:
 	get stacked into the checklist.  
 
 	For the other form, you enter all the required information and it a pop-up
-	box will appear and thank you for payment.  
+	box will appear and thank you for payment.  This is meant to illustrate a 
+	successful payment that was processed.  
