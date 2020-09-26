@@ -12,4 +12,5 @@ Project Description:
 	console to make orders or use the UI to create orders, and then the orders
 	get stacked into the checklist.  
 
-	For the other form, you 
+	For the other form, you enter all the required information and it a pop-up
+	box will appear and thank you for payment.  
